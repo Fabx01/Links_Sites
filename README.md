@@ -22,7 +22,7 @@ Links | Descrição
 [soundraw.io](https://soundraw.io) | Basta escolher o humor, o gênero e a duração. Nossa IA irá gerar belas músicas para você.
 [kaiber.ai](https://www.kaiber.ai/) | IA para fazer videos - Transforme suas ideias nas histórias visuais de seus sonhos com nosso mecanismo de geração de IA de última geração.
 [runwayml](https://runwayml.com/) | IA para edição de videos - oferece varios recursos de edições de video gerado por IA
-[link](https://link-url-here.org) | descricao 
+[beta.tome.app](https://beta.tome.app/) | IA para fazer slides modernos
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 
