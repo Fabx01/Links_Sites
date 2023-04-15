@@ -16,7 +16,12 @@ Links | Descrição
 [background](https://www.background.lol/) | descreva o wallpapers e IA cria wallpapers em resolução 4k
 [imgcleaner](https://imgcleaner.com/) | IA que remove elementos indesejados da imagem
 [voice.ai](https://voice.ai/) | IA que muda a sua voz para uma voz de uma famoso em tempo real
-[link](https://link-url-here.org) | descricao 
+[fliki](https://fliki.ai/) | Transforme texto em vídeos com vozes de IA
+[writesonic](https://writesonic.com/) | IA que escreve qualquer coisa e possue varios recursos avançados prontos para criação de conteudo em texto para trabalho e internet
+[midjourney](https://www.midjourney.com/app/) | criação de conteudo visual em alta qualidade
+[soundraw.io](https://soundraw.io) | Basta escolher o humor, o gênero e a duração. Nossa IA irá gerar belas músicas para você.
+[kaiber.ai](https://www.kaiber.ai/) | IA para fazer videos - Transforme suas ideias nas histórias visuais de seus sonhos com nosso mecanismo de geração de IA de última geração.
+[runwayml](https://runwayml.com/) | IA para edição de videos - oferece varios recursos de edições de video gerado por IA
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
