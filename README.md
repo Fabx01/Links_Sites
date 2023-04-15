@@ -8,7 +8,7 @@ Useful website links for programming and content creation
 Links | Descrição 
 :--------- | :------: 
 [KONJER](https://portal.konjer.xyz/) | Uma biblioteca de livros completa aonde você pode escolher um livro do seu interece e conversar com ele
-[civitai.com](https://link-url-here.org) | Uma plataforma para modelos de arte de inteligência artificial stable difusion 
+[civitai.com](https://civitai.com/) | Uma plataforma para modelos de arte de inteligência artificial stable difusion 
 [Latent Labs](https://www.latentlabs.art/) | IA que mudo o estilo da imagem, voce envia uma imagem e informa o estilo para a IA alterar
 [scribblediffusion.com](https://scribblediffusion.com/) | IA você rabisca um desenho e ela transforma em imagem
 [codewp.ai](https://codewp.ai/) | gerador de código de IA construído e treinado especificamente para o WordPress
