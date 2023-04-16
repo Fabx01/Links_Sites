@@ -23,6 +23,18 @@ Links | Descrição
 [kaiber.ai](https://www.kaiber.ai/) | IA para fazer videos - Transforme suas ideias nas histórias visuais de seus sonhos com nosso mecanismo de geração de IA de última geração.
 [runwayml](https://runwayml.com/) | IA para edição de videos - oferece varios recursos de edições de video gerado por IA
 [beta.tome.app](https://beta.tome.app/) | IA para fazer slides modernos
+[falatron](https://falatron.com) | Conversão de texto pra fala de porsonagens
+[tutorai.me](https://www.tutorai.me) | IA que que te ajuda a aprender qualquer coisa
+[axiom.ai](https://axiom.ai/) | IA que faz automação de paginas da web, pode ser usada em redes socias para automação
+[copy.ai](https://www.copy.ai/) | um gerador de conteúdo em testo por IA para web ,redes sociais e blogs
+[pictory.ai](https://pictory.ai/) | IA Transforma postagens de blog em vídeos envolventes no piloto automático.
+[vocalremover](https://vocalremover.org/) | separa a música dos vocais com um poderoso algoritmo de IA. Carregue um arquivo mp3 e deixe o algoritmo fazer o seu trabalho!
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 
@@ -30,6 +42,7 @@ Links | Descrição
 
 Links | Descrição 
 :--------- | :------: 
+[videvo](https://www.videvo.net/) | VIDEOS FREE 
 [Lorem Ipsum](https://lipsum.com) | textos fictícios
 [unsplash](https://unsplash.com/pt-br) | imagens gratuitas sem direitos autorais
 [tinypng](https://tinypng.com) | Remover meta dados desnecessárias das imagens 
@@ -38,14 +51,18 @@ Links | Descrição
 [clideo](https://clideo.com/pt) | Ferramentas de edição de vídeo online multifuncionais e fáceis de usar
 [iconfinder](https://www.iconfinder.com) | baixar icones gratuitos
 [pixabay](https://pixabay.com) | fotos gratuitas
-[link](https://link-url-here.org) | descricao 
-[link](https://link-url-here.org) | descricao 
-[link](https://link-url-here.org) | descricao 
-[link](https://link-url-here.org) | descricao 
+[toptal.com](https://www.toptal.com/developers/gitignore/) | cria um arquivo .gitgnote especifico para seu projeto
+[tunefind](https://www.tunefind.com/) | encontrar e ouvir as musicas tocadas em filmes e tv
+[lumen5](https://lumen5.com/) | criador de vídeo on-line para empresas
+[lifehacker](https://lifehacker.com/) | noticias e ideias para aprender
+[websa](https://websa.online/) | lista sites incrivelmente úteis que você gostaria de conhecer 
+[haveibeenpwned](https://haveibeenpwned.com/) | permite que você verifique se suas senhas e outros dados vazaram em alguma violação de dados.
+[my90stv](https://www.my90stv.com/) | permite que você assista a inúmeros programas dos anos 60, 70, 80, 90 e 00. Basta escolher o seu ano e clicar para mudar de canal.
+[codecademy](https://www.codecademy.com/learn) | aprender programação
+[link](https://link-url-here.org) | descricao
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao
-[link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao
