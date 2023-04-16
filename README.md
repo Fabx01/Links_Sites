@@ -29,8 +29,8 @@ Links | Descrição
 [copy.ai](https://www.copy.ai/) | um gerador de conteúdo em testo por IA para web ,redes sociais e blogs
 [pictory.ai](https://pictory.ai/) | IA Transforma postagens de blog em vídeos envolventes no piloto automático.
 [vocalremover](https://vocalremover.org/) | separa a música dos vocais com um poderoso algoritmo de IA. Carregue um arquivo mp3 e deixe o algoritmo fazer o seu trabalho!
-[lexica](https://lexica.art/) | IA que fera imagens e fornece modelos de imagens com prompts prontos para usar como base
-[link](https://link-url-here.org) | descricao 
+[clipdrop](https://lexica.art/) | IA que fera imagens e fornece modelos de imagens com prompts prontos para usar como base
+[clipdrop.co](https://clipdrop.co) | IA cria edita imsgend - Crie visuais impressionantes em segundos
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
