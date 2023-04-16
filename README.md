@@ -30,13 +30,25 @@ Links | Descrição
 
 Links | Descrição 
 :--------- | :------: 
+[Lorem Ipsum](https://lipsum.com) | textos fictícios
+[unsplash](https://unsplash.com/pt-br) | imagens gratuitas sem direitos autorais
+[tinypng](https://tinypng.com) | Remover meta dados desnecessárias das imagens 
+[Miro](https://miro.com/pt/index/) | A plataforma visual colaborativa em formato de lousa online que une sua equipe de qualquer lugar.
+[draw.io](https://app.diagrams.net) | plataforma para criação de diagramas
+[clideo](https://clideo.com/pt) | Ferramentas de edição de vídeo online multifuncionais e fáceis de usar
+[iconfinder](https://www.iconfinder.com) | baixar icones gratuitos
+[pixabay](https://pixabay.com) | fotos gratuitas
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao
 [link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao
 
 ##### API
 
