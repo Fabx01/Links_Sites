@@ -35,7 +35,7 @@ Links | Descrição
 [jasper](https://www.jasper.ai/) | A inteligência artificial torna mais rápido e fácil criar conteúdo para o seu blog, mídia social, site
 [soundful](https://soundful.com) | Aproveite o poder da IA para gerar música de fundo isenta de royalties com o clique
 [bearly](https://bearly.ai) | IA de última geração ao seu fluxo de trabalho. Leitura, escrita e criação de conteúdo, tudo a um atalho de distância.
-[link](https://link-url-here.org) | descricao 
+[leonardo.ai](https://app.leonardo.ai) | IA cria imagens de alta qualidade
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
