@@ -31,12 +31,19 @@ Links | Descrição
 [vocalremover](https://vocalremover.org/) | separa a música dos vocais com um poderoso algoritmo de IA. Carregue um arquivo mp3 e deixe o algoritmo fazer o seu trabalho!
 [clipdrop](https://lexica.art/) | IA que fera imagens e fornece modelos de imagens com prompts prontos para usar como base
 [clipdrop.co](https://clipdrop.co) | IA cria edita imsgend - Crie visuais impressionantes em segundos
+[murf.ai](https://murf.ai/) | Vá do texto à fala com um versátil gerador de voz AI
+[jasper](https://www.jasper.ai/) | A inteligência artificial torna mais rápido e fácil criar conteúdo para o seu blog, mídia social, site
+[soundful](https://soundful.com) | Aproveite o poder da IA para gerar música de fundo isenta de royalties com o clique
+[bearly](https://bearly.ai) | IA de última geração ao seu fluxo de trabalho. Leitura, escrita e criação de conteúdo, tudo a um atalho de distância.
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
 [link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+[link](https://link-url-here.org) | descricao 
+
 
 ##### SITES RECURSOS FREE E PRODUTIVIDADE
 
